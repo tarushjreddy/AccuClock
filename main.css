@@ -1,0 +1,75 @@
+
+.Headding{
+font-weight: normal;
+display: inline;
+padding-right: 20px;
+}
+
+#clock{
+display: inline;
+flex-wrap: wrap;
+
+    
+}
+.textnav{
+    display: inline;
+    padding-left: 20px;
+
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+  
+
+    
+}
+p{
+    font-weight: w100;
+}
+.image{
+height: 20px;
+
+
+
+}
+ .small{
+    padding-left: 20px;
+    display: inline;
+    padding-right: 10px;
+}
+#timming{
+    display: inline;
+}
+#timmingg{
+    display: inline;
+    font-size: 35px;
+}
+#back-img{
+background-repeat: no-repeat;
+background-size: strech;
+}
+#bar{
+    background-color: red;
+}
+#developer{
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    width: auto;
+color: black;
+padding: 20px;
+align-content: center;
+
+margin-top:90px;
+
+padding-right: 20px;
+border: 2px white solid;
+background-color: white;
+opacity: 0.5;
+border-radius: 5px;
+
+}
+a{
+    color: black;
+}
